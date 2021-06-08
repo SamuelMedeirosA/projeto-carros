@@ -1,4 +1,4 @@
-$(function(){
+/*$(function(){
 
     setTimeout(() => {
         $('.bg-blur').css('filter', 'blur(0px)');
@@ -6,4 +6,4 @@ $(function(){
         //$('.img-car-loading').css('display', 'none');
     }, 6000);
 
-})
+})*/
